@@ -242,6 +242,8 @@
         "lines": [
           1,
           1,
+          null,
+          1,
           null
         ]
       },
@@ -381,9 +383,8 @@
           null
         ]
       },
-      "/Users/michael/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+      "/Users/michael/turing/2module/challenges/make_it_work/app/controllers/contestants_controller.rb": {
         "lines": [
-          1,
           1,
           1,
           null,
@@ -395,8 +396,17 @@
           1,
           null
         ]
+      },
+      "/Users/michael/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
       }
     },
-    "timestamp": 1589556813
+    "timestamp": 1589557262
   }
 }
