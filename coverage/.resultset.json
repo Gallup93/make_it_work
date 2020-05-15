@@ -241,7 +241,7 @@
       "/Users/michael/turing/2module/challenges/make_it_work/config/routes.rb": {
         "lines": [
           1,
-          null,
+          1,
           null
         ]
       },
@@ -360,8 +360,22 @@
           1,
           null
         ]
+      },
+      "/Users/michael/turing/2module/challenges/make_it_work/app/controllers/projects_controller.rb": {
+        "lines": [
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/michael/turing/2module/challenges/make_it_work/app/controllers/application_controller.rb": {
+        "lines": [
+          1,
+          null
+        ]
       }
     },
-    "timestamp": 1589555610
+    "timestamp": 1589555822
   }
 }
