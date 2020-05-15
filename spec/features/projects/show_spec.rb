@@ -9,8 +9,8 @@ RSpec.describe "Project Show Page" do
       visit "/projects/#{lit_fit.id}"
 
       expect(page).to have_content(lit_fit.name)
-      expect(page).to_not have_content(lit_fit.material)
-      expect(page).to_not have_content(lit_fit.theme)
+      expect(page).to have_content(lit_fit.material)
+      expect(page).to have_content(lit_fit.challenge.theme)
     end
   end
 end
