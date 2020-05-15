@@ -1,0 +1,7 @@
+<h1>CONTESTANTS</h1>
+
+<% @contestants.each do |contestant| %>
+  <%# <% require 'pry'; binding.pry %> %>
+    <%= contestant.name %>
+    <%= contestant.projects.each{|p| p.name} %>
+<% end %>
